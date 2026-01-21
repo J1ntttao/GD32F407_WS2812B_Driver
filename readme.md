@@ -34,3 +34,5 @@
 ------
 
 **提示**：实际应用前请测试时序是否符合WS2812B规格书要求。
+
+![image](https://github.com/J1ntttao/GD32F407_WS2812B_Driver/blob/master/.Img/myexample.jpg)
